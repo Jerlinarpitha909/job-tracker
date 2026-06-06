@@ -2,7 +2,7 @@
 
 > A production-ready CLI tool to track, automate, and analyse your job hunt — built with Python OOP, SQLite, pytest, and openpyxl.
 
-[![CI](https://github.com/YOUR_USERNAME/job-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/job-tracker/actions)
+[![CI](https://github.com/Jerlinarpitha909/job-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/Jerlinarpitha909/job-tracker/actions)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
